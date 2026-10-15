@@ -28,4 +28,4 @@ Everything is in memory: a restart loses stock changes, counters and idempotency
 
 ## Explain it yourself
 
-See [STUDY_GUIDE.md](STUDY_GUIDE.md) for a short walkthrough and exercises. An optional GitHub Actions example is in `docs/ci-example.yml`. It is not enabled: the current publishing credential does not have workflow permissions. Tests were run locally.
+See [STUDY_GUIDE.md](STUDY_GUIDE.md) for a short walkthrough and exercises. An optional GitHub Actions example is in `docs/ci-example.yml`. It is a reference example, not an enabled workflow. Tests were run locally.
